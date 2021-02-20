@@ -10,6 +10,8 @@ Nesse projeto, realizamos a partida dos contatores, de modo que o método utiliz
 
 * Microcontrolador utilizado: PIC16F887
 
+* Software para esquemático e simulaçao do programa: SIMULIDE 
+
 ## Esquemático do circuito
 
 ![alt](https://raw.githubusercontent.com/guilemes1/partidaETMaqEst/master/Circuito_Partida_Estrela_Tri%C3%A2ngulo.png)
