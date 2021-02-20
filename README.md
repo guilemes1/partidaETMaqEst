@@ -1,5 +1,9 @@
 # Projeto Partida Estrela Triângulo
 
+Programa desenvolvido para realizar a __Partida Estrela Triângulo__ em motores de indução trifásica, a partir do uso do microcontrolador.
+
+Nesse projeto, realizamos a partida dos contatores, de modo que o método utilizado proporcione em um sistema intertravado.
+
 * Método utilizado: Máquina de estados
 
 * Ambiente de desenvolvimento: MPLABX-IDE
